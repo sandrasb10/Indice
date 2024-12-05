@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name=""viewport" content="width=device-width, initial-scale=1.0">
+        
+    </head>
+    <body style="background-color:beige;">
+        <h1 style="color:chocolate"> HOTEL RIU PLAZA ESPAÑA</h1>
+        <h2 style="color:darksalmon"> Vistas a toda la capital</h2>
+        <p> Este hotel, ubicado en el emblemático Edificio España <br>
+ en la Gran Vía de Madrid, cuenta con 27 plantas <br>
+ con una gran variedad de instalaciones para hacer <br>
+ de tu estancia una experiencia inolvidable. <br>
+ </p>
+
+        
+
+ <img src="hotelriu.jpg.jpg" width="250"> 
+
+ <h3 style="color:darksalmon"> Instalaciones más destacadas: </h3>
+ <p1> Gimnasio <br>
+Bar <br>
+Servicio de habitaciones <br>
+Internet <br>
+Parking <br>
+Piscina al aire libre <br>
+Adaptado personas con movilidad reducida <br>
+Recepción 24 horas <br>
+</p1>
+<br>
+<br>
+    <p3 style="color:;"> Para más información haz click: </h2>  
+<h2 style="color: blanchedalmond;"> Para mñas P</h2>
+
+      
+    </body>
